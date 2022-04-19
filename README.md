@@ -1,4 +1,4 @@
-# projeto-hyrule
+# Breath of the Wild Compendium
 
 ## Project setup
 ```
