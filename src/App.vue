@@ -3,15 +3,8 @@
 </template>
 
 <script>
-import Home from './components/homepage/Home.vue'
-import Monsters from './components/monsters/Monsters.vue'
-
 export default {
-    name: 'App',
-    components: {
-        Home,
-        Monsters
-    }
+    name: 'App'
 }
 </script>
 

@@ -4,7 +4,7 @@
         <img class="splash-art" src="https://gadhagod.github.io/Hyrule-Compendium-API/assets/light_logo.png" alt="Splash art of Link using a bow">
         <article>
             <h2>About</h2>
-            <p>Hello! This is a compendium web app that contains a lot of in-game information about <strong>Legend of Zelda: Breath of the Wild</strong>, like enemies and equipment. It's built with the <a href="https://github.com/gadhagod/Hyrule-Compendium-API" target="_blank">Hyrule Compendium API</a>.</p>
+            <p>Hello! This is a compendium web app that contains a lot of in-game information about <strong>The Legend of Zelda: Breath of the Wild</strong>, like enemies and equipment. It's built with the <a href="https://github.com/gadhagod/Hyrule-Compendium-API" target="_blank">Hyrule Compendium API</a>.</p>
             <br>
             <p>You can access all the different information through the navigation bar on the top (or clicking the hamburger button if you're on mobile).</p>
         </article>
