@@ -1,19 +1,5 @@
 # Breath of the Wild Compendium
 
-## Project setup
-```
-npm install
-```
+<a href="https://botw-compendium.vercel.app/">Visit the WebApp</a>
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+"BotW Compendium" is web app that contains a lot of in-game information about The Legend of Zelda: Breath of the Wild. Built with the Hyrule Compendium API.
